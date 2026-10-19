@@ -16,7 +16,7 @@ int main()
 	/*cout << "Enter your grade: ";
 	cin >> grade_letter;
 
-	cout << "Enter your section: ";
+	cout << "Enter your section: ";   //this can be used if someone wants to take input i just did it so i left it commented.
 	cin  >> section;
 
 	cout << "Enter the first letter of your name: ";
